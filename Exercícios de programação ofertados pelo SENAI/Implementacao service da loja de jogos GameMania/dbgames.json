@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Mouse Gamer Red Dragons",
+      "descricao": "12400 DPI",
+      "foto": "mouse.png",
+      "preco": 124.99
+    },
+    {
+      "id": 2,
+      "produto": "Monitor",
+      "descricao": "NOVA GERAÇÃO 24 POLEGADAS",
+      "foto": "monitor.png",
+      "preco": 459
+    },
+    {
+      "id": 3,
+      "produto": "Pc Gamer Completo",
+      "descricao": "AMD Ryzen 5 5600g Radeon Vega 7 Graphics, 16GB DDR4 3000mhz, SSD 480GB, Fonte 500W, Windows 11",
+      "foto": "bannerpcgamer.png",
+      "preco": 2739
+    },
+    {
+      "id": 4,
+      "produto": "Cadeira Gamer",
+      "descricao": "Reclinável com porta copo, cor verde",
+      "foto": "banner03.png",
+      "preco": 656.3
+    },
+    {
+      "id": 5,
+      "produto": "Jogos Para PS4",
+      "descricao": "Inéditos, com jogos lançados esse ano",
+      "foto": "jogos.png",
+      "preco": 199.99
+    },
+    {
+      "id": 6,
+      "produto": "Mousepad Gamer",
+      "descricao": "COM LUZ RGB 45CM",
+      "foto": "mousepad.png",
+      "preco": 89.9
+    }
+  ]
+}

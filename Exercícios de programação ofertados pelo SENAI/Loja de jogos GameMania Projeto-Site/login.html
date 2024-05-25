@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GameMania</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="icon" href="img/gamemania.ico">
+    <title>Cadastro</title>
+    <title>Login</title>
+ </head>
+
+<body>
+    <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="index.html"><img src="img/logo_gamemania.png" class="logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="categorias.html">Categorias</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Minha Conta</a>
+            </li>  
+            <li class="nav-item">
+              <a class="nav-link" href="#">Meu Carrinho</a>
+              <li class="nav-item">
+                  <a class="nav-link" href="informações.html">Sobre Nós</a>
+                  <li class="nav-item">
+                    <a class="nav-link" href="login.html">Meu Login</a>
+                  </li>  
+                </li>  
+              </li>  
+            </li>  
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="O que deseja?" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+          </form>
+        </div>
+      </nav>
+    </header>
+
+<section class="geral">
+    
+    <div class="container">
+        <h2>Ainda não é cadastrado?</h2>
+              <p>Cadastre-se agora!</p>
+              <div class="form-group">
+                <label for="username">Nome:</label>
+                <input type="text" id="username" required>
+            </div>
+            <div class="form-group">
+                <label for="username">Sobrenome:</label>
+                <input type="text" id="username" required>
+            </div>
+            <div class="form-group">
+                <label for="username">Email:</label>
+                <input type="text" id="email" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Senha:</label>
+                <input type="password" id="password" required>
+            </div>
+            <div class="form-group">
+                <label for="confirmPassword">Confirme a senha:</label>
+                <input type="password" id="confirmPassword" required>
+            </div>
+            <div class="form-group">
+                <button onclick="register()">Cadastrar</button>
+            </div>
+        </div>
+        
+        <div class="container">
+            <h2>Já possui uma conta?</h2>
+            <p>Faça Login!</p>
+            <div class="form-group">
+                <label for="Email">Email:</label>
+                <input type="text" id="Email" required>
+            </div>
+            <div class="form-group">
+                <label for="Senha">Senha:</label>
+                <input type="password" id="Senha" required>
+            </div>
+            <div class="form-group">
+                <button onclick="login()">Entrar</button>
+            </div>
+        </div>
+
+     
+      
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+    
+    <script src="https://code.jquery.com/jquery-3.6.1.js"
+        integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/jquery-script.js"></script>
+
+</body>
+
+</html>

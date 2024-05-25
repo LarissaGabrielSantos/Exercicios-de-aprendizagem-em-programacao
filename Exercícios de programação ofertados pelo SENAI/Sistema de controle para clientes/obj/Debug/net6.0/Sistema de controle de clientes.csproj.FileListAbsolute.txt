@@ -1,0 +1,15 @@
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\bin\Debug\net6.0\Sistema de controle de clientes.exe
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\bin\Debug\net6.0\Sistema de controle de clientes.deps.json
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\bin\Debug\net6.0\Sistema de controle de clientes.runtimeconfig.json
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\bin\Debug\net6.0\Sistema de controle de clientes.dll
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\bin\Debug\net6.0\Sistema de controle de clientes.pdb
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.csproj.AssemblyReference.cache
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.AssemblyInfoInputs.cache
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.AssemblyInfo.cs
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.csproj.CoreCompileInputs.cache
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.dll
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\refint\Sistema de controle de clientes.dll
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.pdb
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\Sistema de controle de clientes.genruntimeconfig.cache
+C:\Users\gplay\Music\TRABALHOS SENAI AGOSTO-SETEMBRO-OUTUBRO\Sistema de controle de clientes\obj\Debug\net6.0\ref\Sistema de controle de clientes.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "29sTuqZi4UCm/ivVyT3qPvUXN3j6M63lR/E+t4LtRi4=",
+  "Source": "senai",
+  "BasePath": "_content/senai",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "senai\\wwwroot",
+      "Source": "senai",
+      "ContentRoot": "C:\\Users\\gplay\\Music\\senai\\wwwroot\\",
+      "BasePath": "_content/senai",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gplay\\Music\\senai\\wwwroot\\index.html",
+      "SourceId": "senai",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gplay\\Music\\senai\\wwwroot\\",
+      "BasePath": "_content/senai",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
