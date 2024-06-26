@@ -2,4 +2,6 @@
 ---
 Algumas linguagens de programação presentes neste repositório são:
 
+- C
+- Python
 
