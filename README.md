@@ -1,7 +1,6 @@
 # Olá, este repositorio possui o intuito de mostrar minha aprendizagem em determinados assuntos de programação.
 ---
 Algumas linguagens de programação, de marcação, estilo e frameworks presentes neste repositório são:
----
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,3 +12,5 @@ Algumas linguagens de programação, de marcação, estilo e frameworks presente
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
+---
