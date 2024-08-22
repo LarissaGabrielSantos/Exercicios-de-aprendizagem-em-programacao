@@ -1,8 +1,8 @@
-package br.estacio.model; //como se fosse o #include
+package br.estacio.model; 
 
-public class Conta { // como se fosse o int main void
+public class Conta { 
 
-	private Long id; // como se fosse a declaração de variavel
+	private Long id; 
 
 	private String nome;
 
@@ -42,7 +42,7 @@ public class Conta { // como se fosse o int main void
 		this.deposito = deposito;
 	}
 
-	public void depositar() { // metodo sempre no infinitivo
+	public void depositar() { 
 		if (this.deposito < 0) {
 			System.out.println("Valor negativo. Não pode!"); // tipo o printf
 		} else {
