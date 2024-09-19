@@ -1,6 +1,5 @@
 package interfacedois;
 
-import java.text.NumberFormat;
 
 public class Aluno {
 
