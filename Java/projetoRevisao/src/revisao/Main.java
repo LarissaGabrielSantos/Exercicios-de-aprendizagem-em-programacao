@@ -10,8 +10,8 @@ public class Main {
 		clt.setDesconto(2000.);
 		clt.setSalarioLiquido(clt.calcularSalario());
 
-		System.out.println(clt.getId());
-		System.out.println(clt.getNome());
-		System.out.println(clt.getSalarioLiquido());
+		System.out.println("id:" + clt.getId());
+		System.out.println("nome:" + clt.getNome());
+		System.out.println("salario liquido:" + clt.getSalarioLiquido());
 	}
 }
