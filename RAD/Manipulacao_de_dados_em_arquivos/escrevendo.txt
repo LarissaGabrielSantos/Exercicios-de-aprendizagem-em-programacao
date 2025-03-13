@@ -1,4 +1,4 @@
-Esta é a primeira linha.
-Esta é a segunda linha.
-Esta é a primeira linha em uma lista.
-Esta é a segunda linha em uma linha.
+Esta e a primeira linha.
+Esta e a segunda linha.
+Esta e a primeira linha em uma lista.
+Esta e a segunda linha em uma linha.
