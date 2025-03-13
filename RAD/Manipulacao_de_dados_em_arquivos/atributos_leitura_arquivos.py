@@ -1,4 +1,4 @@
-arquivo = open('manipulacao_de_dados_em_arquivos/dados.txt')
+arquivo = open('dados.txt')
 
 print('Nome do arquivo: ', arquivo.name)
 print('Tamanho do arquivo (em bytes): ', arquivo.tell())

@@ -1,4 +1,4 @@
-caminho_arquivo = 'manipulacao_de_dados_em_arquivos/nomes.txt'
+caminho_arquivo = 'nomes.txt'
 
 arquivo = open(caminho_arquivo, 'r')
 
