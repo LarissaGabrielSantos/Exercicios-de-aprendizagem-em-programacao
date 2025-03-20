@@ -1,0 +1,7 @@
+'''len = lenth = tamanho'''
+'''count = contar'''
+'''replace = substituir'''
+
+'''yield = de 1 por 1 '''
+''return = de uma vez só '''
+'''usa-se * quando não sabe a quantidaded de itens que vai receber'''
